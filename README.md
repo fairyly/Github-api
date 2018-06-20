@@ -12,6 +12,15 @@ https://api.github.com
   - https://1030310877.gitbooks.io/github-api-v3/content/authenticate/Authorizations.html
 
 
+## api
+
+### GET /users/{username}
+
+获取中指定用户信息，username指的是用户的登录名(login)
+
+- https://api.github.com/users/fairyly
+
+
 
 
 
