@@ -9,7 +9,7 @@ https://api.github.com
 直接点击打开，可看到当前所有可用接口。
 
 - gitbook: https://legacy.gitbook.com/book/1030310877/github-api-v3/details
-
+  - https://1030310877.gitbooks.io/github-api-v3/content/authenticate/Authorizations.html
 
 
 
