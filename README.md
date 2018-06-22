@@ -19,6 +19,41 @@ https://api.github.com
 获取中指定用户信息，username指的是用户的登录名(login)
 
 - https://api.github.com/users/fairyly
+```
+{
+  "login": "fairyly",
+  "id": 17672815,
+  "node_id": "MDQ6VXNlcjE3NjcyODE1",
+  "avatar_url": "https://avatars1.githubusercontent.com/u/17672815?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/fairyly",
+  "html_url": "https://github.com/fairyly",
+  "followers_url": "https://api.github.com/users/fairyly/followers",
+  "following_url": "https://api.github.com/users/fairyly/following{/other_user}",
+  "gists_url": "https://api.github.com/users/fairyly/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/fairyly/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/fairyly/subscriptions",
+  "organizations_url": "https://api.github.com/users/fairyly/orgs",
+  "repos_url": "https://api.github.com/users/fairyly/repos",
+  "events_url": "https://api.github.com/users/fairyly/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/fairyly/received_events",
+  "type": "User",
+  "site_admin": false,
+  "name": "fairy",
+  "company": "damo",
+  "blog": "https://fairyly.github.io/myblog",
+  "location": "hangzhou",
+  "email": null,
+  "hireable": null,
+  "bio": ":fist: :octocat: :cn:  I don't like you, just because I didn't work hard enough！！:rose: :biking_man:  :biking_man: :biking_man: :biking_man:",
+  "public_repos": 519,
+  "public_gists": 1,
+  "followers": 23,
+  "following": 124,
+  "created_at": "2016-03-05T12:24:16Z",
+  "updated_at": "2018-06-03T06:01:45Z"
+}
+```
 
 ### 获取 followers 接口
 - https://api.github.com/users/fairyly/followers
