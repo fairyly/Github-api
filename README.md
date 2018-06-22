@@ -20,7 +20,30 @@ https://api.github.com
 
 - https://api.github.com/users/fairyly
 
+### 获取 followers 接口
+- https://api.github.com/users/fairyly/followers
 
+```
+返回：
+avatar_url:"https://avatars1.githubusercontent.com/u/7548209?v=4"
+events_url:"https://api.github.com/users/smacheng/events{/privacy}"
+followers_url:"https://api.github.com/users/smacheng/followers"
+following_url:"https://api.github.com/users/smacheng/following{/other_user}"
+gists_url:"https://api.github.com/users/smacheng/gists{/gist_id}"
+gravatar_id:""
+html_url:"https://github.com/smacheng"
+id:7548209
+login:"smacheng"
+node_id:"MDQ6VXNlcjc1NDgyMDk="
+organizations_url:"https://api.github.com/users/smacheng/orgs"
+received_events_url:"https://api.github.com/users/smacheng/received_events"
+repos_url:"https://api.github.com/users/smacheng/repos"
+site_admin:false
+starred_url:"https://api.github.com/users/smacheng/starred{/owner}{/repo}"
+subscriptions_url:"https://api.github.com/users/smacheng/subscriptions"
+type:"User"
+url:"https://api.github.com/users/smacheng"
+```
 
 
 
