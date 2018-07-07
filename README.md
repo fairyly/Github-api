@@ -188,5 +188,11 @@ url:"https://api.github.com/users/smacheng"
 - 
 
 
+### 获取某一个仓库的 issue
+- https://api.github.com/repos/fairyly/our-story/issues
+
+### 创建一个仓库的 issue
+- 
+
 ### 参考
 - https://blog.csdn.net/qq_25537177/article/details/80561507
