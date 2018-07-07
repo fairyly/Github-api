@@ -1,5 +1,11 @@
 # Github-api
 
+## 创建 auth token
+```
+登录 GitHub 到设置--》 Developer settings---》Personal access tokens
+created a token in Github -> Settings -> Personal access tokens -> Generate new token and chose only repo scope.
+```
+
 Github api demo
 
 ### 基础Api地址
