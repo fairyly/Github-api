@@ -193,6 +193,8 @@ url:"https://api.github.com/users/smacheng"
 ### 获取创建组织接口
 - 
 
+## 获取 issue
+- https://developer.github.com/v3/issues/
 
 ### 获取某一个仓库的 issue
 - https://api.github.com/repos/fairyly/our-story/issues
