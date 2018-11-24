@@ -202,5 +202,11 @@ url:"https://api.github.com/users/smacheng"
 ### 创建一个仓库的 issue
 - 
 
+
+
+### 获取  GitHub timeline API
+
+- https://api.github.com/users/fairyly/received_events?page=1
+
 ### 参考
 - https://blog.csdn.net/qq_25537177/article/details/80561507
